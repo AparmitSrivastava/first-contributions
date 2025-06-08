@@ -732,6 +732,7 @@
 - [Joshua Luca](https://github.com/joshluca98)
 - [Yhlas Yazmyrad](https://github.com/yazmyrad)
 - [Sean Calderon](https://github.com/rimorgin)
+- [Utkarsh Kumar Sinha](https://github.com/utkarshkumarsinha)
 - [Anusha Jamsandekar](https://github.com/anushaj79)
 - [RomaniukNatalia](https://github.com/RomaniukNatalia)
 - [Kelvin Yeboah](https://github.com/KelvCodes)
